@@ -1,8 +1,6 @@
-# 2022北京冬奥会信息管理系统
+# 2022 Beijing Winter Olympics Information Management System
 
-2021fall  数据库技术及应用大作业
-
-## 不留大作业过年！
+This is the capstone project of *Database*.
 
 ![image-20211231210726767](figures/cover.png)
 
